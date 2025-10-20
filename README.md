@@ -2,7 +2,7 @@
 Some simple projects I did for University assignment . First semester.
 
 
-1.cpp is a simple code to calculte the area of a triangle by asking width and height
+    1.cpp is a simple code to calculte the area of a triangle by asking width and height
 2.cpp is also to determine the area of a triangle by asking for base and vertical height
 3.cpp is a code to convert the Celsius degree to fahrenheit 
 4.cpp is a Minutes to hours converter, X hours and Y minutes (remain)
