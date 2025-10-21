@@ -1,6 +1,3 @@
-
-// I swear to god I didn't use AI
-// I think I'm gonna be the next CEO for google
 #include <iostream>
 using namespace std;
 int main(){
@@ -29,3 +26,4 @@ cout<<"                          \\_____________/"<<endl;
 
     return 0;
 }
+
